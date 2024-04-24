@@ -1,0 +1,6 @@
+LIBRARY inmm_hack
+
+EXPORTS
+    RegOpenKeyExA  @2
+    RegCloseKey  @3
+    RegQueryValueExA  @4
